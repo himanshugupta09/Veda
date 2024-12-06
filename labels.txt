@@ -1,0 +1,75 @@
+index 	 Plant Name              Frequemcy
+0 : 	Amaranthus Green	123
+1 : 	Amaranthus Red		89
+2 : 	Asthma Plant		81
+3 : 	Avaram			66
+4 : 	Balloon vine		246
+5 : 	Bellyache bush (Green)	81
+6 : 	Benghal dayflower		58
+7 : 	Betel Leaves		127
+8 : 	Big Caltrops		64
+9 : 	Black Night Shade		108
+10 :	Black-Honey Shrub		105
+11 : 	Bristly Wild Grape		66
+12 : 	Butterfly Pea		51
+13 : 	Cape Gooseberry		122
+14 : 	Celery			82
+15 : 	Chinese Spinach		60
+16 : 	Common Wireweed		60
+17 : 	Coriander Leaves		60
+18 : 	Country Mallow		60
+19 : 	Crown flower		65
+20 : 	Curry Leaf			65
+21 : 	Dwarf Copperleaf (Green)	88
+22 : 	Dwarf copperleaf (Red) 	79
+23 : 	False Amarnath		101
+24 : 	Fenugreek Leaves		80
+25 : 	Giant Pigweed		103
+26 : 	Gongura			53
+27 : 	Green Chireta		69
+28 : 	Holy Basil			54
+29 : 	Indian CopperLeaf		124
+30 : 	Indian Jujube		66
+31 : 	Indian Sarsaparilla	84
+32 : 	Indian Stinging Nettle	106
+33 : 	Indian Thornapple		57
+34 : 	Indian pennywort		64
+35 : 	Indian wormwood		67
+36 : 	Ivy Gourd			51
+37 : 	Kokilaksha			59
+38 : 	Lagos Spinach		84
+39 : 	Lambs Quarters		69
+40 : 	Land Caltrops (Bindii)	63
+41 : 	Lettuce Tree		64
+42 : 	Madagascar Periwinkle	55
+43 : 	Madras Pea Pumpkin		53
+44 : 	Malabar Catmint		65
+45 : 	Malabar Spinach (Green)	106
+46 : 	Mexican Mint		105
+47 : 	Mexican Prickly Poppy	55
+48 : 	Mint Leaves		125
+49 : 	Mountain Knotgrass		78
+50 : 	Mustard			80		
+51 : 	Nalta Jute			73
+52 : 	Night blooming Cereus	54
+53 : 	Palak			84
+54 : 	Panicled Foldwing		68
+55 : 	Prickly Chaff Flower	54
+56 : 	Punarnava			76
+57 : 	Purple Fruited Pea Eggplant 70
+58 : 	Purple Tephrosia		59
+59 : 	Rosary Pea			66
+60 : 	Shaggy button weed		65
+61 : 	Siru Keerai		68
+62 : 	Small Water Clover		57
+63 : 	Spiderwisp			55
+64 : 	Square Stalked Vine	159
+65 : 	Stinking Passionflower	66
+66 : 	Sweet Basil		123
+67 : 	Sweet flag			75
+68 : 	Tinnevelly Senna		53
+69 : 	Trellis Vine		57
+70 : 	Velvet bean		72
+71 : 	Water Spinach		55
+72 : 	coatbuttons		85
+73 : 	heart-leaved moonseed	192
