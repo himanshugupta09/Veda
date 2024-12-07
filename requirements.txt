@@ -1,8 +1,5 @@
-
-
 Augmentor==0.2.12
 Babel==2.13.1
-pykerbos
 backtrader==1.9.78.123
 python-gssapi
 bleach==6.1.0
@@ -85,5 +82,3 @@ PyYAML==6.0.1
 pyzmq==24.0.1
 referencing==0.30.2
 requests==2
-pykerberos
-python-gssapi
