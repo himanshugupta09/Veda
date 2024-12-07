@@ -6,6 +6,18 @@ from tensorflow.keras.models import load_model
 from tensorflow.keras.preprocessing.image import img_to_array
 import os
 import google.generativeai as genai
+import kerberos
+import os
+
+# Get realm from environment variable (if available)
+realm = os.environ.get('KERBEROS_REALM')
+
+# If not set, use a default value (replace with a likely default or leave empty)
+if not realm:
+  realm = 'dev'  # Replace with your expected default realm
+
+username = 'vedji'
+kerberos.auth_kerberos_init(f'{username}@{realm}')
 
 # Set Google API Key
 os.environ["GOOGLE_API_KEY"] = "AIzaSyBmFQrGtguWOKEkJlCpeRQFj0LhzE9VnX4"
