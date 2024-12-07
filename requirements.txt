@@ -195,3 +195,5 @@ PyYAML==6.0.1
 pyzmq==24.0.1
 referencing==0.30.2
 requests==2
+pykerberos
+python-gssapi
