@@ -8,7 +8,7 @@ import os
 import google.generativeai as genai
 import kerberos
 import os
-
+os.environ["KRB5_CONFIG"] = "./config/krb5.conf"
 # Get realm from environment variable (if available)
 realm = os.environ.get('KERBEROS_REALM')
 
