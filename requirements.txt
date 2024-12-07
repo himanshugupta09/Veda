@@ -1,3 +1,6 @@
+COPY setup_kerberos.sh /app/setup_kerberos.sh
+RUN chmod +x /app/setup_kerberos.sh && /app/setup_kerberos.sh
+
 annotated-types==0.6.0
 anyio==3.7.1
 arcgis==2.2.0.1
