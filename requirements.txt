@@ -1,5 +1,3 @@
-COPY setup_kerberos.sh /app/setup_kerberos.sh
-RUN chmod +x /app/setup_kerberos.sh && /app/setup_kerberos.sh
 
 
 Augmentor==0.2.12
