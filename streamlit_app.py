@@ -23,12 +23,12 @@ def get_response(query):
 
 
 # Read the background image
-background_image = Image.open("F:\IT_IV_pro\Code\\bgm.jpg")
+background_image = Image.open("bgm.jpg")
 
 # Display the image using st.image
 st.image(background_image)
 
-model = load_model("F:\IT_IV_pro\Code\plant_model5.h5",compile=False)
+model = load_model("plant_model5.h5",compile=False)
 plant_names = [
     "Amaranthus Green",
     "Amaranthus Red",
@@ -112,7 +112,7 @@ def animate_background():
     # Continuously display the image
     
     #Read the GIF animation
-    reader = imageio.get_reader("F:\IT_IV_pro\Code\\new.gif")
+    #reader = imageio.get_reader("F:\IT_IV_pro\Code\\new.gif")
 
     # Get duration metadata
     duration = reader.get_meta_data()["duration"]
