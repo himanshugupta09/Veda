@@ -99,7 +99,7 @@ json5==0.9.14
 jsonpointer==2.4
 jsonschema==4.19.0
 jsonschema-specifications==2023.7.1
-jupyter-client==6.1.12 1 
+jupyter-client==6.1.12 
 jupyter_core==5.5.0
 jupyter-events==0.9.0
 jupyter-server==1.24.0
