@@ -16,7 +16,10 @@ This project is a **Streamlit-powered Plant Identification System** that leverag
 ## 🚀 Project Demo  
 Click the image below to watch the app in action:  
 
-[![Watch Demo](https://img.youtube.com/vi/d4wa8N6BD4A/0.jpg)](https://youtu.be/d4wa8N6BD4A)
+<video src="https://github.com/himanshugupta09/Veda/blob/main/streamlit-streamlit_app-2024-12-08-18-12-51.webm" controls width="720">
+Your browser does not support the video tag.
+</video>
+
 
 ---
 
