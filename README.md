@@ -14,7 +14,9 @@ This project is a **Streamlit-powered Plant Identification System** that leverag
 ---
 
 ## 🚀 Project Demo  
-Click the image below to watch the app in action:  
+Click the image below to watch the app in action: 
+<html>
+    <body>
 <p>Watch the demo of the app in action:</p>
     <iframe 
         width="560" 
@@ -25,6 +27,8 @@ Click the image below to watch the app in action:
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
         allowfullscreen>
     </iframe>
+    </body>
+</html>
 
 
 ---
